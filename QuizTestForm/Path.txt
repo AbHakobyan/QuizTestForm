@@ -1,0 +1,106 @@
+﻿First Line image file location .We check correct answer in digits example 1 question correct answer 4 is correct
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q1 :  Which word is different?
+A:  Chicken
+B:  Lamb
+C:  Beet
+D:  Pork
+3
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q2 :  Complete the sentence with the correct word:One of the brothers was so ... he never left the house without doing the houswork.   
+A: Responsible
+B: rivalry
+C: neet
+D: tension
+3
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q3 :  Which sentence is correct?
+A: We are having a dinner next Sunday and your family is invited
+B: We will have a dinner next Sunday and your family is invited
+C: We have a dinner next Sunday and your family is invited
+D: We are going to have a dinner next Sunday and your family is invited
+1
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q4 :  The doctor told him not to eat high fat products,he had to ...
+A: eat out
+B: look out
+C: cut it down
+D: Cut it out
+4
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q5 :  Choose the correct form for the sentence :  Teenagers  ... to eat carbohydrates so that they are full of energy.
+A: are needing
+B: will need
+C: need
+D: are going to need
+3
+C:\Users\oxotn\Desktop\CannedFood.jpg
+Q6 :  What is these?
+A: canned food
+B: frozen food
+C: row food
+D: low-fat food
+1
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q7 :  Complete the sentence:  Protein increases  ...  level.
+A: blood pressure 
+B: concentration
+C: cortisol
+D: hormone
+2
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q8 :  Complete the sentence:   Students usually stay and sleep in  ...
+A: high School
+B: adults house
+C: boarding school
+D: primary school
+3
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q9 :  Complete the sentence:  Doctors always advise elderly to  ...  to their health
+A: be awere
+B: pay attention
+C: take attention
+D: take care
+2
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q10 :  Choose the word that is different
+A: zucchini
+B: eggplant
+C: squid
+D: cabbage
+3
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q11 :  What is the synonym of sensible.
+A: emotional
+B: clever
+C: kind
+D: responsible
+2
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q12 :  What is to suffocate?.
+A: to kill somebody by taking their breath
+B: to help somebody by giving advice
+C: to take care of elderly
+D: to make somebody feel sorry
+1
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q13 :  Complete the sentence:  He was such a  ...  boy,the never did what his parents wanted.
+A: sensitive
+B: spoiled
+C: messy
+D: rebellious
+4
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q14 :  Complete the sentence:  He was as  ...  as a mule.
+A: stubborn
+B: witty
+C: happy
+D: enthusiastic
+1
+C:\Users\oxotn\Desktop\what-are-you-thinking.jpg
+Q15 :  Which sentence is correct?
+A: I'll buy coffee for us.
+B: I'm buying coffee for us.
+C: I am going to buy coffee for us.
+D: I buy coffee for us.
+1
